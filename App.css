@@ -1,0 +1,28 @@
+main {
+  text-align: center;
+}
+.container{
+  height: 100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+.dice{
+  background-color:black;
+  color:white;
+  padding: 20px;
+}
+.image{
+  height: 50px;
+}
+.player1{
+ margin-top:20px;
+}
+.dicecontainer{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.play{
+  margin-top:90px;
+}
